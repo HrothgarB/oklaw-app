@@ -1,0 +1,27 @@
+﻿# Node / JS
+node_modules/
+dist/
+build/
+.tmp/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Expo / React Native
+.expo/
+.expo-shared/
+.expo/*
+web-build/
+
+# IDE
+.vscode/
+.idea/
